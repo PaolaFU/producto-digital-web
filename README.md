@@ -1,8 +1,11 @@
 # Web instituto Ugarte
 
-Este producto digital   consiste en diseñar una página web a un instituto de cosmiatria , para incrementar su prestigio, agilizar sus procesos de inscripción y matrícula. Para esto  se desarrollará diversas actividades de investigación las cuales  ayudarán a identificar  que necesitan  exactamente los usuarios y asi, poder satisfacer sus requerimientos. 
+Este producto digital consiste en diseñar una web móvil a un instituto de cosmiatria, para incrementar su prestigio, agilizar procesos de inscripción, matrícula y pago. Se desarrollaron diversas actividades de investigación para identificar necesidades de los usuarios.
 
-# Contexto
+## Desarollado para
+[Laboratoria](http://www.laboratoria.la/)
+
+## Contexto
 
 El instituto Ugarte se encarga de   brindar estudios especializados en el área de cosmiatría y esteticismo a diversas personas, según sean sus intereses. Cuentan  con una  excelente plana docente, infraestructura y tecnología moderna la cual permite brindar certificación y título con el respaldo del Ministerio de Educación, logrando profesionales calificados para el exigente mercado laboral.
 
@@ -10,7 +13,7 @@ Por el momento el instituto cuenta con una Fanpage en facebook, por la cual tien
 
 En el  instituto  muchos de los procesos los realizan de manera presencial y desean pasar alguno de estos procesos a una página web.
 
-## Objetivos de la empresa
+### Objetivos de la empresa
 
 * Generar mayor confianza  con su alumnado.
 
@@ -18,11 +21,11 @@ En el  instituto  muchos de los procesos los realizan de manera presencial y des
 
 * Ser reconocida como la mejor Institución Educativa en cosmiatría y esteticismo a Nivel Nacional.
 
-# Idea de Negocio
+## Idea de Negocio
 
 Una web del instituto Ugarte que da la facilidad de inscribirse, matricularse y pagar  de manera online a las diversas carreras, cursos y talleres de la institución.
 
-# Stakeholders
+## Stakeholders
 
 * Alumnos
 
@@ -32,7 +35,7 @@ Una web del instituto Ugarte que da la facilidad de inscribirse, matricularse y 
 
 * UX/UI designer
 
-# Reunión kick-off
+## Reunión kick-off
 
 Se realizó una entrevista  al gerente general del instituto, .para conocer sus principales necesidades y entender que objetivos quiere cumplir con la web de la institución
 
@@ -88,9 +91,9 @@ El proceso de matricula e inscripción se realiza de la siguiente manera:
 
 ![proceso](assets/images/proceso.jpg)
 
-# Recopilación y análisis de datos
+## Recopilación y análisis de datos
 
-## Encuestas online
+### Encuestas online
 
 
 Se realizó  encuestas online a 26 alumnas que actualmente estudian en el instituto, para tener un mayor panorama de lo que desean tener con la web.
@@ -106,11 +109,11 @@ Se realizó  encuestas online a 26 alumnas que actualmente estudian en el instit
 
 Enlace de encuestas: https://goo.gl/forms/y6h6IxIMicWp8EJg1
 
-## Entrevistas
+### Entrevistas
 
 Se realizo 2 entrevistas presenciales a las alumnas de la institución, para conocer qué es lo  que ellas  desearían tener  en una página web, si la usarían y sobre todo satisfaga sus necesidades. 
 
-### Susana Ramirez  27 años
+#### Susana Ramirez  27 años
 
   * ¿Cómo te enteras de los cursos que dictan en el instituto Ugarte?
 
@@ -137,7 +140,7 @@ Se realizo 2 entrevistas presenciales a las alumnas de la institución, para con
     - El de tener que ir a pagar a un banco la matricula.
 
 
-### Luana Rodriguez  29 años
+#### Luana Rodriguez  29 años
 
 * ¿Cómo te enteras de los cursos que dictan en el instituto Ugarte?
 
@@ -165,35 +168,35 @@ Se realizo 2 entrevistas presenciales a las alumnas de la institución, para con
 
 
 
-## Benchmarck
+### Benchmarck
 
   Se toma como  referencias a otros institutos que ya cuentan con matrícula, inscripcion y pago online.
 
   ![Benchmarck](assets/images/BENCH.png) 
 
-### Conclusiones Benchmarking
+#### Conclusiones Benchmarking
 
 * Después de la investigación se encontró que el instituto Ugarte tienes muchos procesos presenciales a comparación de las instituciones con las que se realizó benchmarck.
 
 * El instituto Icpna es la única institución que tiene sus procesos automatizados, y cuenta con una muy buena información detallada de los cursos que ofrece.
 
-# Síntesis y definición
+## Síntesis y definición
 
-## Affinity map
+### Affinity map
 
-## User person
+### User person
 
-## User flow
+### User flow
 
 ![Benchmarck](assets/images/user.png)
 
-# Ideación
+## Ideación
 
-## Feature List
+### Feature List
 
-# Prototyping
+## Prototyping
 
-## Prototipo en papel
+### Prototipo en papel
 
 Se testeó a 3 usarios, tomamos en cuenta sus observaciones para realizar un mejor prototipo digital
 
@@ -217,7 +220,7 @@ Alumnos que testearon el prototipo en papel
 
     * Que la información de pago mejor sea enviada a su correo.
 
-## Prototipo alta fidelidad
+### Prototipo alta fidelidad
 
   Se logro testear a 3 alumnos, los cuales nos dieron importantes observaciones así como también a varios les gusto el producto final. 
 
