@@ -1,6 +1,8 @@
-# Web instituto Ugarte
+# Web-móvil 
 
 Este producto digital consiste en diseñar una web móvil a un instituto de cosmiatria, para incrementar su prestigio, agilizar procesos de inscripción, matrícula y pago. Se desarrollaron diversas actividades de investigación para identificar necesidades de los usuarios.
+
+![web-movil](https://user-images.githubusercontent.com/32306054/38516083-c251aaf2-3bfb-11e8-835e-5b1c851644e1.png)
 
 ## Desarollado para
 [Laboratoria](http://www.laboratoria.la/)
