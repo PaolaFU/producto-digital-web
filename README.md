@@ -1,9 +1,9 @@
-# WEB-MOVIL 
-
-Este producto digital consiste en diseñar una web móvil a un instituto de cosmiatria, para incrementar su prestigio, agilizar procesos de inscripción, matrícula y pago. Se desarrollaron diversas actividades de investigación para identificar necesidades de los usuarios.
+# Matricula e inscripción online 
 
 
-![web2](https://user-images.githubusercontent.com/32306054/38517072-6887b4b4-3bfe-11e8-93d0-088092f6efa7.png)
+Para brindar  una buena experiencia a sus alumnos e incrementar su prestigio, se diseñó  una website a un instituto de cosmiatría para realizar la  inscripción, matrícula y pagos de manera online. Se  hizo un prototipo web con un flujo fácil, rápido y amigable  para que los alumnos realicen los procesos sin problemas. 
+
+![web](https://user-images.githubusercontent.com/32306054/40710760-25aba2f2-63bf-11e8-8d57-00e10b57edbd.png)
 
 ## Desarollado para
 [Laboratoria](http://www.laboratoria.la/)
